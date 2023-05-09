@@ -10905,7 +10905,7 @@ a.text-dark:focus {
 .react-datepicker__quarter--selected:hover,
 .react-datepicker__quarter--in-selecting-range:hover,
 .react-datepicker__quarter--in-range:hover {
-    background-color: #1844c2;
+    background-color: #23f7dd;
 }
 
 .react-datepicker__month--disabled,
@@ -11001,7 +11001,7 @@ a.text-dark:focus {
 .react-datepicker__year-text--selected:hover,
 .react-datepicker__year-text--in-selecting-range:hover,
 .react-datepicker__year-text--in-range:hover {
-    background-color: #1844c2;
+    background-color: #23f7dd;
 }
 
 .react-datepicker__day--keyboard-selected,
@@ -11017,7 +11017,7 @@ a.text-dark:focus {
 .react-datepicker__month-text--keyboard-selected:hover,
 .react-datepicker__quarter-text--keyboard-selected:hover,
 .react-datepicker__year-text--keyboard-selected:hover {
-    background-color: #1844c2;
+    background-color: #23f7dd;
 }
 
 .react-datepicker__day--in-selecting-range,
@@ -12151,8 +12151,8 @@ select.form-control-lg:not([size]):not([multiple]),
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #1844c2;
-    border-color: #1844c2;
+    background-color: #23f7dd;
+    border-color: #23f7dd;
 }
 
 .btn-primary:focus,
@@ -12172,7 +12172,7 @@ select.form-control-lg:not([size]):not([multiple]),
 .btn-primary:not(:disabled):not(.disabled).active,
 .show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #1844c2;
+    background-color: #23f7dd;
     border-color: #153cac;
     background-image: none;
     box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125) !important;
@@ -16961,8 +16961,8 @@ label {
 
 .btn-accent:hover {
     color: #fff;
-    background-color: #1844c2;
-    border-color: #1844c2;
+    background-color: #23f7dd;
+    border-color: #23f7dd;
 }
 
 .btn-accent:focus,
@@ -16982,7 +16982,7 @@ label {
 .btn-accent:not(:disabled):not(.disabled).active,
 .show>.btn-accent.dropdown-toggle {
     color: #fff;
-    background-color: #1844c2;
+    background-color: #23f7dd;
     border-color: #153cac;
     background-image: none;
     box-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125) !important;
